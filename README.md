@@ -1,4 +1,4 @@
-# 👨‍💻 Sobre Mim  
+# 👨‍💻 Um pouco sobre mim
 
 🎓 Olá! Sou estudante de tecnologia com foco em **desenvolvimento web fullstack**, atualmente explorando o universo de **Node.js (Express.js)** no backend e **React (Vite)** no frontend. Quero poder transformar ideias em soluções digitais eficientes e escaláveis.  
 
